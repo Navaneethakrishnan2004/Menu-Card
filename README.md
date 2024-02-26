@@ -30,7 +30,7 @@ Feel free to use or modify this code for your restaurant or food-related project
 
 ## Author
 
-This code was created by [Your Name].
+This code was created by NAVANEETHAKRISHNAN.P.S
 
 If you have any questions or suggestions, feel free to reach out.
 
